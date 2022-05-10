@@ -1,0 +1,10 @@
+Dataset URL :
+https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+
+Deployment URL:
+
+1. Frontend
+https://p1ml2-frontend-sonnyrd.herokuapp.com/
+
+2. Backend
+https://p1ml2-backend-sonnyrd.herokuapp.com/predict
