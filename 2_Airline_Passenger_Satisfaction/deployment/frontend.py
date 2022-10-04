@@ -223,6 +223,7 @@ data = {
  }
 
 URL = "https://p1ml2-backend-sonnyrd.herokuapp.com/predict"
+URL = "http://127.0.0.1:5000/predict"
 
 # komunikasi
 r = requests.post(URL, json=data)

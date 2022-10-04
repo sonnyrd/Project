@@ -1,5 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7260676&assignment_repo_type=AssignmentRepo)
-
 # About
 
-This App was created as a Dashboard to visualize data on supermarket sales in the cities of Mandalay, Naypyitaw, and Yangon.
+This App was created as a Dashboard to visualize and Analyze data on supermarket sales in the cities of Mandalay, Naypyitaw, and Yangon.
+
+
+# Dataset
+
+We use Supermarket sales dataset from [kaggle](https://www.kaggle.com/aungpyaeap/supermarket-sales)
