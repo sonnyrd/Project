@@ -1,0 +1,8 @@
+pandas==1.4.4
+plotly.express
+streamlit==1.12.2
+streamlit_nested_layout==0.1.1
+streamlit_option_menu
+openpyxl==3.0.10
+lxml
+bs4
