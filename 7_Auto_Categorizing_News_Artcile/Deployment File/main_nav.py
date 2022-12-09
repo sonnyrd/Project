@@ -3,7 +3,6 @@ import streamlit as st
 
 #import .py
 import nlp
-import clustering
 
 # Page configuration
 st.set_page_config(
@@ -21,7 +20,6 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 PAGES = {
     "Auto Categorizing Article": nlp,
-    "Credit Data Customer Segementation": clustering
 }
 
 st.sidebar.title('Navigation')
